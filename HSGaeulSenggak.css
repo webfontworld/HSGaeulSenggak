@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'HSGaeulSenggak';
+    font-weight: 100;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/HSGaeulSenggak/HSGaeulSenggakThin.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/HSGaeulSenggak/HSGaeulSenggakThin.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/HSGaeulSenggak/HSGaeulSenggakThin.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/HSGaeulSenggak/HSGaeulSenggakThin.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/HSGaeulSenggak/HSGaeulSenggakThin.ttf') format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: 'HSGaeulSenggak';
+    font-weight: 400;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/HSGaeulSenggak/HSGaeulSenggakRegular.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/HSGaeulSenggak/HSGaeulSenggakRegular.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/HSGaeulSenggak/HSGaeulSenggakRegular.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/HSGaeulSenggak/HSGaeulSenggakRegular.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/HSGaeulSenggak/HSGaeulSenggakRegular.ttf') format("truetype");
+    font-display: swap;
+} 
